@@ -4,7 +4,7 @@ import { Vowel, ISN, IPN } from './src/constant';
 import { checkingCondition } from './src/function';
 
 // Plural Func
-export const Plural = (arr) => {
+export default Plural = (arr) => {
   let tempArr = [];
   for (let i = 0; i < arr.length; i++) {
     let temp = arr[i];
