@@ -1,0 +1,29 @@
+{
+  "name": "singular-plural-js",
+  "version": "1.0.0.1",
+  "description": "A Simple Library to convert singular to plural with all the grammar rules",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "bin":"./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makstyle119/singular-plural.js.git"
+  },
+  "keywords": [
+    "Singular",
+    "Plural",
+    "Singular Plural",
+    "JS Singular Plural",
+    "React Singular Plural",
+    "Node.JS Singular Plural",
+    "JavaScript Singular Plural",
+    "React-Native Singular Plural"
+  ],
+  "author": "MAKSTYLE119",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makstyle119/singular-plural.js/issues"
+  },
+  "homepage": "https://github.com/makstyle119/singular-plural.js#readme"
+}
