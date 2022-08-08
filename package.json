@@ -1,6 +1,6 @@
 {
   "name": "singular-plural-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Simple Library to convert singular to plural with all the grammar rules",
   "main": "index.js",
   "type": "module",
