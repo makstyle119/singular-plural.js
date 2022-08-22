@@ -1,6 +1,6 @@
 # Singular-Plural.JS
 
-> A Simple Library to convert singular to plural with all the grammar rules
+> A Simple Library to convert singular to plural with all the grammars rules
 
 ## Install
 
